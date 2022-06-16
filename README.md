@@ -1,4 +1,4 @@
-# Mongo Express on Kubernetes
+# Node.js app & Mongo Express on Kubernetes
 
 This project implements a basic web-based MongoDB admin interface on a Minikube kubernetes cluster.
 
